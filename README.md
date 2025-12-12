@@ -6,7 +6,7 @@ A production-minded CRUD application built with **Next.js 14 (App Router)**, **T
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/ZaraEjaz/employee-management.git
     ```
 2.  **Install dependencies:**
     ```bash
