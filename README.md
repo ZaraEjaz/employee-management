@@ -39,7 +39,7 @@ The application follows a clean separation of concerns, dividing the View (UI) f
 * **Requirement:** A table listing Name, Email, Role, Status, and Actions.
 * **Implementation:** * Used `Ant Design Table` with strictly typed columns.
     * **Bonus:** Implemented **Column Sorting** for names and **Filtering** for Roles directly in the column definitions.
-    * **UX Improvement:** Added a CSS override to enforce a **consistent table height** (520px). This prevents the UI from "jumping" when filtering results or navigating to a page with fewer items.
+a page with fewer items.
 * **Location:** `src/components/employees/EmployeeTable.tsx`
 
 #### B. Add & Edit Employee (Create/Update)
